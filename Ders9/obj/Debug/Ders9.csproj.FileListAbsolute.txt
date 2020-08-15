@@ -1,0 +1,9 @@
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\bin\Debug\Ders9.exe.config
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\bin\Debug\Ders9.exe
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\bin\Debug\Ders9.pdb
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\obj\Debug\Ders9.csprojAssemblyReference.cache
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\obj\Debug\Ders9.Form1.resources
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\obj\Debug\Ders9.Properties.Resources.resources
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\obj\Debug\Ders9.csproj.GenerateResource.cache
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\obj\Debug\Ders9.exe
+C:\Users\Ekin Engin Candaş\source\repos\MyFormOrnekleri\Ders9\obj\Debug\Ders9.pdb
